@@ -1,0 +1,60 @@
+{
+  "method": "Downloaded original exact URLs with browser User-Agent and AGGCON Referer. Converted to WebP using Sharp quality 90, respecting original dimensions and without enlargement.",
+  "assets": [
+    {
+      "file": "hyderabad.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/hyderabad_metro.jpg",
+      "sourcePage": "https://aggconequipments.com/projects/",
+      "labelAsPublished": "Hyderabad Metro Rail Project",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Project image paired beside this project heading in the source projects page",
+      "rights": "Company-published original website assets included in this revamp proposal; no independent asset license or company-owned copyright verification supplied",
+      "identityNote": "Identity comes from source page labeling; no broader original-file metadata verification performed."
+    },
+    {
+      "file": "ganga.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/ganga-bridge.jpg",
+      "sourcePage": "https://aggconequipments.com/projects/",
+      "labelAsPublished": "Ganga River Bridge Project, Ballia",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Project image paired beside this project heading in the source projects page",
+      "rights": "Company-published original website assets included in this revamp proposal; no independent asset license or company-owned copyright verification supplied",
+      "identityNote": "Identity comes from source page labeling; no broader original-file metadata verification performed."
+    },
+    {
+      "file": "sambalpur.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/lucknow-expressway.jpg",
+      "sourcePage": "https://aggconequipments.com/projects/",
+      "labelAsPublished": "Sambalpur Rourkela Road Project",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Project image paired beside this project heading in the source projects page",
+      "rights": "Company-published original website assets included in this revamp proposal; no independent asset license or company-owned copyright verification supplied",
+      "identityNote": "The original projects page pairs a file named lucknow-expressway.jpg with the Sambalpur Rourkela heading. This preserves the original site mapping; actual photograph location is not independently verified."
+    },
+    {
+      "file": "model-jcb-3dx.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/JCB-3DX-300x225-1.jpg",
+      "sourcePage": "https://aggconequipments.com/",
+      "labelAsPublished": "JCB 3DX",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Equipment illustration linked beside this label in the source homepage",
+      "rights": "Company-published original website assets included in this revamp proposal; no independent asset license or company-owned copyright verification supplied",
+      "identityNote": "Identity comes from source page labeling; no broader original-file metadata verification performed."
+    },
+    {
+      "file": "model-jcb-excavator.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2024/05/Excavator.png",
+      "sourcePage": "https://aggconequipments.com/",
+      "labelAsPublished": "EXCAVATOR",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Original company homepage category image; visible JCB branded tracked excavator",
+      "rights": "Company-published original website assets included in this revamp proposal; no independent asset license or company-owned copyright verification supplied",
+      "identityNote": "The original model entries labeled JCB EXCAVATOR point to CAT-branded photographs (JCB-EXCAVATOR.jpg and Untitled-8-2.jpg). This asset uses the original homepage excavator category photograph, which visibly shows JCB, without claiming a specific model number."
+    }
+  ]
+}

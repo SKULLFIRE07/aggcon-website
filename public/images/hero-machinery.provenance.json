@@ -1,0 +1,19 @@
+{
+  "type": "AI-generated illustrative concept imagery",
+  "isActualAggconProjectPhoto": false,
+  "tool": "built-in image_gen.imagegen",
+  "generatedAt": "2026-09-29",
+  "sourcePath": "/home/aryan-budukh/.codex/generated_images/01a0ebc8-0d43-7442-ac28-a23afbade56a/exec-61bb2aa7-a607-4d12-98ea-9f0afd92fa5b.png",
+  "prompt": "Use case: photorealistic-natural\nAsset type: cinematic industrial website hero background, original concept imagery, not a real company project photograph.\nPrimary request: a photoreal editorial cinematic image of a massive amber-orange crawler excavator at an industrial construction worksite at dusk.\nSubject: one monumental crawler excavator, three-quarter side view, authentic engineering detail, bucket and boom, heavy steel tracks, realistic hydraulic hoses and worn paint.\nComposition/framing: 16:9 widescreen landscape. Place the machinery entirely on the RIGHT two thirds, large enough to extend nearly full frame height. The LEFT 40% must be calm nearly black empty negative space suitable for a large headline overlay. Very low camera position emphasizing scale. Keep the right-side boom and bucket visible and the excavator body legible.\nScene/backdrop: deep graphite worksite at dusk, gritty real dirt, faint industrial silhouettes far behind, subtle natural dust.\nLighting/mood: dramatic golden sunlight entering from the upper right, tactile warm highlights and charcoal shadows, beautifully desaturated environment, premium industrial editorial photography, natural realistic cinematic light.\nMaterials/textures: steel, real dirt, dust, worn amber-orange paint, believable physical machinery.\nConstraints: NO TEXT, NO LOGOS, NO WATERMARKS, NO UI, no people foreground, no illustrated or CGI appearance, no unrealistic machinery anatomy. This is an image asset only, not a website screenshot.",
+  "original": "hero-machinery.png",
+  "optimized": "hero-machinery.webp",
+  "optimization": {
+    "tool": "ffmpeg",
+    "codec": "libwebp",
+    "quality": 88
+  },
+  "dimensions": {
+    "width": 1672,
+    "height": 941
+  }
+}

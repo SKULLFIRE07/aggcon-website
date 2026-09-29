@@ -1,0 +1,93 @@
+{
+  "method": "Downloaded from original published company asset URLs using browser user-agent and referring homepage; optimized lossily with FFmpeg libwebp quality 90",
+  "assets": [
+    {
+      "file": "foundation.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2024/05/pilling-ring.png",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Equipment category illustration published on AGGCON’s website; avoid treating category photograph as exact model evidence",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "lifting.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2024/05/crawler-crane.png",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Equipment category illustration published on AGGCON’s website; avoid treating category photograph as exact model evidence",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "concrete.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/42m-300x209-1.jpg",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Equipment category illustration published on AGGCON’s website; avoid treating category photograph as exact model evidence",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "road.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2026/07/paver.jpg",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Equipment category illustration published on AGGCON’s website; avoid treating category photograph as exact model evidence",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "earthmoving.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2024/05/Excavator.png",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Equipment category illustration published on AGGCON’s website; avoid treating category photograph as exact model evidence",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "handling.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2024/05/wheel-loader.png",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Equipment category illustration published on AGGCON’s website; avoid treating category photograph as exact model evidence",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "atal-setu.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2024/12/oxlwuAtal-Setu.jpg",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Project image published on AGGCON’s website; use with its corresponding case study",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "yamuna.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/yamuna-expressway.jpg",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Project image published on AGGCON’s website; use with its corresponding case study",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "metro.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/kochi-metro.jpg",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Project image published on AGGCON’s website; use with its corresponding case study",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "machinery.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/machinery2.jpg",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Equipment category illustration published on AGGCON’s website; avoid treating category photograph as exact model evidence",
+      "license": "Published on company website; no separate reuse license verified"
+    },
+    {
+      "file": "operator.webp",
+      "source": "https://aggconequipments.com/wp-content/uploads/2023/05/machinery2.jpg",
+      "publisher": "AGGCON Equipments International Limited",
+      "retrieved": "2026-09-29",
+      "role": "Operator on AGGCON-branded roller; image published on company website",
+      "license": "Published on company website; no separate reuse license verified"
+    }
+  ]
+}

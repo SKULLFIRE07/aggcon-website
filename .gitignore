@@ -1,0 +1,10 @@
+node_modules/
+.pages-build/
+out/
+.next/
+.env.local
+data/*.sqlite*
+data/*.db*
+test-results/
+.impeccable/review/
+*.tsbuildinfo

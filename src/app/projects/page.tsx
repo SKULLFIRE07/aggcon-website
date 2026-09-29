@@ -1,0 +1,6 @@
+import { assetUrl } from '@/lib/preview';
+import Link from 'next/link';
+import { ArrowUpRight, MapPin } from 'lucide-react';
+import { projects } from '@/lib/data';
+export const metadata={title:'Projects that move India',description:'Explore AGGCON’s published infrastructure project experience, including Atal Setu, Yamuna Expressway and Metro projects.'};
+export default function Page(){return <><section className="page-intro container"><h1>GREAT PROJECTS.<br/><span>SHARED PROGRESS.</span></h1><p>Every landmark starts with a team.<br/>We’re proud to play our part.</p></section><section className="projects-grid container">{projects.map(p=><Link href={`/projects/${p.id}`} className={`project-tile ${p.id==='atal-setu'?'project-tile-wide':''}`} key={p.id}><div><img src={p.id==='atal-setu'?assetUrl('/images/atal-setu-wide.webp'):p.image} alt={p.name} loading="lazy"/><span className="project-tile-arrow"><ArrowUpRight size={27}/></span></div><div className="project-tile-info"><div><span>{p.sector}</span><h2>{p.name}</h2></div><p><MapPin size={14}/>{p.location}</p></div></Link>)}</section><section className="project-outro container"><h2>YOUR PROJECT<br/>COULD BE NEXT.</h2><Link href="/quote" className="button button-orange">Let’s talk about it <ArrowUpRight size={19}/></Link></section></>;}
