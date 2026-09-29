@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-29T07:59:30.962023+00:00",
+  "title": "Design System: AGGCON",
+  "extensions": {
+    "colorMeta": {
+      "orange": {
+        "role": "primary",
+        "displayName": "Worksite Orange",
+        "canonical": "#ff6b2c",
+        "tonalRamp": [
+          "oklch(15% 0.1946 40.92)",
+          "oklch(26.43% 0.1946 40.92)",
+          "oklch(37.86% 0.1946 40.92)",
+          "oklch(49.29% 0.1946 40.92)",
+          "oklch(60.71% 0.1946 40.92)",
+          "oklch(72.14% 0.1946 40.92)",
+          "oklch(83.57% 0.1946 40.92)",
+          "oklch(95% 0.1946 40.92)"
+        ]
+      },
+      "orange-hover": {
+        "role": "primary",
+        "displayName": "Warm Orange Hover",
+        "canonical": "#ff824c",
+        "tonalRamp": [
+          "oklch(15% 0.1669 42.83)",
+          "oklch(26.43% 0.1669 42.83)",
+          "oklch(37.86% 0.1669 42.83)",
+          "oklch(49.29% 0.1669 42.83)",
+          "oklch(60.71% 0.1669 42.83)",
+          "oklch(72.14% 0.1669 42.83)",
+          "oklch(83.57% 0.1669 42.83)",
+          "oklch(95% 0.1669 42.83)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Graphite",
+        "canonical": "#171917",
+        "tonalRamp": [
+          "oklch(15% 0.0049 145.40)",
+          "oklch(26.43% 0.0049 145.40)",
+          "oklch(37.86% 0.0049 145.40)",
+          "oklch(49.29% 0.0049 145.40)",
+          "oklch(60.71% 0.0049 145.40)",
+          "oklch(72.14% 0.0049 145.40)",
+          "oklch(83.57% 0.0049 145.40)",
+          "oklch(95% 0.0049 145.40)"
+        ]
+      },
+      "ink-hover": {
+        "role": "neutral",
+        "displayName": "Lifted Graphite",
+        "canonical": "#363c31",
+        "tonalRamp": [
+          "oklch(15% 0.0203 130.84)",
+          "oklch(26.43% 0.0203 130.84)",
+          "oklch(37.86% 0.0203 130.84)",
+          "oklch(49.29% 0.0203 130.84)",
+          "oklch(60.71% 0.0203 130.84)",
+          "oklch(72.14% 0.0203 130.84)",
+          "oklch(83.57% 0.0203 130.84)",
+          "oklch(95% 0.0203 130.84)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm Ivory",
+        "canonical": "#f4f3ec",
+        "tonalRamp": [
+          "oklch(15% 0.0093 99.98)",
+          "oklch(26.43% 0.0093 99.98)",
+          "oklch(37.86% 0.0093 99.98)",
+          "oklch(49.29% 0.0093 99.98)",
+          "oklch(60.71% 0.0093 99.98)",
+          "oklch(72.14% 0.0093 99.98)",
+          "oklch(83.57% 0.0093 99.98)",
+          "oklch(95% 0.0093 99.98)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Olive Grey",
+        "canonical": "#66695f",
+        "tonalRamp": [
+          "oklch(15% 0.0158 120.56)",
+          "oklch(26.43% 0.0158 120.56)",
+          "oklch(37.86% 0.0158 120.56)",
+          "oklch(49.29% 0.0158 120.56)",
+          "oklch(60.71% 0.0158 120.56)",
+          "oklch(72.14% 0.0158 120.56)",
+          "oklch(83.57% 0.0158 120.56)",
+          "oklch(95% 0.0158 120.56)"
+        ]
+      },
+      "heading-muted": {
+        "role": "neutral",
+        "displayName": "Quiet Olive Heading",
+        "canonical": "#858a7c",
+        "tonalRamp": [
+          "oklch(15% 0.0213 123.05)",
+          "oklch(26.43% 0.0213 123.05)",
+          "oklch(37.86% 0.0213 123.05)",
+          "oklch(49.29% 0.0213 123.05)",
+          "oklch(60.71% 0.0213 123.05)",
+          "oklch(72.14% 0.0213 123.05)",
+          "oklch(83.57% 0.0213 123.05)",
+          "oklch(95% 0.0213 123.05)"
+        ]
+      },
+      "heading-secondary": {
+        "role": "neutral",
+        "displayName": "Fleet Olive Heading",
+        "canonical": "#707469",
+        "tonalRamp": [
+          "oklch(15% 0.0173 123.28)",
+          "oklch(26.43% 0.0173 123.28)",
+          "oklch(37.86% 0.0173 123.28)",
+          "oklch(49.29% 0.0173 123.28)",
+          "oklch(60.71% 0.0173 123.28)",
+          "oklch(72.14% 0.0173 123.28)",
+          "oklch(83.57% 0.0173 123.28)",
+          "oklch(95% 0.0173 123.28)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Paper Rule",
+        "canonical": "#d7d8ce",
+        "tonalRamp": [
+          "oklch(15% 0.0136 111.30)",
+          "oklch(26.43% 0.0136 111.30)",
+          "oklch(37.86% 0.0136 111.30)",
+          "oklch(49.29% 0.0136 111.30)",
+          "oklch(60.71% 0.0136 111.30)",
+          "oklch(72.14% 0.0136 111.30)",
+          "oklch(83.57% 0.0136 111.30)",
+          "oklch(95% 0.0136 111.30)"
+        ]
+      },
+      "machine-surface": {
+        "role": "neutral",
+        "displayName": "Machine Ground",
+        "canonical": "#e6e8dd",
+        "tonalRamp": [
+          "oklch(15% 0.0148 115.05)",
+          "oklch(26.43% 0.0148 115.05)",
+          "oklch(37.86% 0.0148 115.05)",
+          "oklch(49.29% 0.0148 115.05)",
+          "oklch(60.71% 0.0148 115.05)",
+          "oklch(72.14% 0.0148 115.05)",
+          "oklch(83.57% 0.0148 115.05)",
+          "oklch(95% 0.0148 115.05)"
+        ]
+      },
+      "fleet-surface": {
+        "role": "neutral",
+        "displayName": "Fleet Ground",
+        "canonical": "#e9eae2",
+        "tonalRamp": [
+          "oklch(15% 0.0107 112.38)",
+          "oklch(26.43% 0.0107 112.38)",
+          "oklch(37.86% 0.0107 112.38)",
+          "oklch(49.29% 0.0107 112.38)",
+          "oklch(60.71% 0.0107 112.38)",
+          "oklch(72.14% 0.0107 112.38)",
+          "oklch(83.57% 0.0107 112.38)",
+          "oklch(95% 0.0107 112.38)"
+        ]
+      },
+      "category-surface": {
+        "role": "neutral",
+        "displayName": "Category Paper",
+        "canonical": "#f5f5ef",
+        "tonalRamp": [
+          "oklch(15% 0.0079 106.55)",
+          "oklch(26.43% 0.0079 106.55)",
+          "oklch(37.86% 0.0079 106.55)",
+          "oklch(49.29% 0.0079 106.55)",
+          "oklch(60.71% 0.0079 106.55)",
+          "oklch(72.14% 0.0079 106.55)",
+          "oklch(83.57% 0.0079 106.55)",
+          "oklch(95% 0.0079 106.55)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "Field Stroke",
+        "canonical": "#c6c8be",
+        "tonalRamp": [
+          "oklch(15% 0.0139 115.89)",
+          "oklch(26.43% 0.0139 115.89)",
+          "oklch(37.86% 0.0139 115.89)",
+          "oklch(49.29% 0.0139 115.89)",
+          "oklch(60.71% 0.0139 115.89)",
+          "oklch(72.14% 0.0139 115.89)",
+          "oklch(83.57% 0.0139 115.89)",
+          "oklch(95% 0.0139 115.89)"
+        ]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "Burnt Orange Focus",
+        "canonical": "#cb4d15",
+        "tonalRamp": [
+          "oklch(15% 0.1717 40.38)",
+          "oklch(26.43% 0.1717 40.38)",
+          "oklch(37.86% 0.1717 40.38)",
+          "oklch(49.29% 0.1717 40.38)",
+          "oklch(60.71% 0.1717 40.38)",
+          "oklch(72.14% 0.1717 40.38)",
+          "oklch(83.57% 0.1717 40.38)",
+          "oklch(95% 0.1717 40.38)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Photographic Display",
+        "purpose": "Main hero, locally hosted Barlow Condensed 800; source alias Barlow."
+      },
+      "headline": {
+        "displayName": "Editorial Headline",
+        "purpose": "Section headings, locally hosted Barlow Condensed 700; source alias Barlow."
+      },
+      "title": {
+        "displayName": "Equipment Title",
+        "purpose": "Condensed catalogue equipment names with final 1.04 line height."
+      },
+      "body": {
+        "displayName": "Reading Body",
+        "purpose": "DM Sans regular reading copy; source alias DM."
+      },
+      "large-copy": {
+        "displayName": "Editorial Introduction",
+        "purpose": "Open DM Sans introductory statements."
+      },
+      "label": {
+        "displayName": "Action Label",
+        "purpose": "Semibold body face for buttons, inline links and base field labels."
+      },
+      "navigation": {
+        "displayName": "Navigation Label",
+        "purpose": "Compact semibold route labels."
+      }
+    },
+    "shadows": [
+      {
+        "name": "navigation-overlay",
+        "value": "0 20px 35px #17191718",
+        "purpose": "Expanded equipment menu only."
+      },
+      {
+        "name": "transient-feedback",
+        "value": "0 6px 22px #17191735",
+        "purpose": "Quote feedback toast only."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Image, arrow and transient feedback easing from the source root token."
+      },
+      {
+        "name": "button-fill",
+        "value": "background .2s",
+        "purpose": "Primary and dark button hover fills."
+      },
+      {
+        "name": "button-arrow",
+        "value": "transform .25s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Arrow moves 3px right and 3px up on button hover."
+      },
+      {
+        "name": "hero-transform",
+        "value": "transform .8s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Subtle pointer displacement and scroll scale 1.03–1.09 with up to 18px vertical translation."
+      },
+      {
+        "name": "hero-image-entry",
+        "value": "hero-image 2s cubic-bezier(.16,1,.3,1) both",
+        "purpose": "Image changes from scale 1.045 to 1."
+      },
+      {
+        "name": "category-entry",
+        "value": "category-in .5s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Category photograph enters from 12px horizontal offset and 3px blur."
+      },
+      {
+        "name": "brand-belt",
+        "value": "belt 40s linear infinite",
+        "purpose": "Decorative belt translates to -50%."
+      },
+      {
+        "name": "equipment-hover",
+        "value": "transform .6s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Contained equipment image grows to scale 1.04."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "@media (prefers-reduced-motion: reduce)",
+        "purpose": "Disable animations, transitions, smooth scrolling and hero transform; JavaScript does not register hero pointer/scroll movement."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1200px"
+      },
+      {
+        "name": "tablet",
+        "value": "900px"
+      },
+      {
+        "name": "mobile",
+        "value": "640px"
+      },
+      {
+        "name": "wide-desktop",
+        "value": "1700px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Filled rental action with the shipped diagonal-arrow hover.",
+      "html": "<button class=\"ds-button-primary\">Explore our fleet <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></button>",
+      "css": ".ds-button-primary{font-family:var(--body,DM,Arial,sans-serif);display:inline-flex;align-items:center;justify-content:center;gap:28px;min-height:52px;padding:14px 24px;border:0;border-radius:3px;font-size:13px;font-weight:600;line-height:1.4;cursor:pointer;text-decoration:none;transition:background .2s,transform .25s var(--ease,cubic-bezier(.16,1,.3,1));background:var(--orange,#ff6b2c);color:var(--ink,#171917);}.ds-button-primary:hover{background:#ff824c;}.ds-button-primary svg{transition:transform .25s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-button-primary:hover svg{transform:translate(3px,-3px);}.ds-button-primary:focus-visible{outline:3px solid var(--focus,#cb4d15);outline-offset:5px;}.ds-button-primary:disabled{cursor:default;opacity:.55;}@media(prefers-reduced-motion:reduce){.ds-button-primary,.ds-button-primary svg{transition:none;}}"
+    },
+    {
+      "name": "Dark Button",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Filled rental action with the shipped diagonal-arrow hover.",
+      "html": "<button class=\"ds-button-dark\">Explore our fleet <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></button>",
+      "css": ".ds-button-dark{font-family:var(--body,DM,Arial,sans-serif);display:inline-flex;align-items:center;justify-content:center;gap:28px;min-height:52px;padding:14px 24px;border:0;border-radius:3px;font-size:13px;font-weight:600;line-height:1.4;cursor:pointer;text-decoration:none;transition:background .2s,transform .25s var(--ease,cubic-bezier(.16,1,.3,1));background:var(--ink,#171917);color:var(--paper,#f4f3ec);}.ds-button-dark:hover{background:#363c31;}.ds-button-dark svg{transition:transform .25s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-button-dark:hover svg{transform:translate(3px,-3px);}.ds-button-dark:focus-visible{outline:3px solid var(--focus,#cb4d15);outline-offset:5px;}.ds-button-dark:disabled{cursor:default;opacity:.55;}@media(prefers-reduced-motion:reduce){.ds-button-dark,.ds-button-dark svg{transition:none;}}"
+    },
+    {
+      "name": "Inline Arrow Link",
+      "kind": "button",
+      "refersTo": "link-inline",
+      "description": "Quiet ruled action used across editorial sections.",
+      "html": "<a class=\"ds-inline-link\" href=\"#fleet\">Explore the fleet <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></a>",
+      "css": ".ds-inline-link{font-family:var(--body,DM,Arial,sans-serif);color:var(--ink,#171917);display:inline-flex;align-items:center;gap:20px;font-size:13px;font-weight:600;line-height:1.4;padding:6px 0;border-bottom:1px solid currentColor;text-decoration:none;transition:gap .2s;}.ds-inline-link:hover{gap:28px;}.ds-inline-link:focus-visible{outline:3px solid var(--focus,#cb4d15);outline-offset:5px;}@media(prefers-reduced-motion:reduce){.ds-inline-link{transition:none;}}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Visible label above the transparent stroked field.",
+      "html": "<label class=\"ds-field\">Project location<input class=\"ds-input\" type=\"text\" placeholder=\"City or project site\" /></label>",
+      "css": ".ds-field{font-family:var(--body,DM,Arial,sans-serif);display:block;color:var(--ink,#171917);font-size:13px;font-weight:600;}.ds-input{font-family:var(--body,DM,Arial,sans-serif);display:block;margin-top:8px;width:100%;min-width:0;border:1px solid #c6c8be;border-radius:3px;background:transparent;padding:13px 15px;color:var(--ink,#171917);font-size:15px;font-weight:400;line-height:1.65;caret-color:#cb4d15;}.ds-input::placeholder{color:#6e7166;opacity:1;}.ds-input:focus-visible{outline:3px solid var(--focus,#cb4d15);outline-offset:5px;}"
+    },
+    {
+      "name": "Main Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Compact route labels with underline hover and active-page state.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a class=\"ds-nav-link ds-nav-active\" href=\"#equipment\" aria-current=\"page\">Equipment</a><a class=\"ds-nav-link\" href=\"#industries\">Industries</a><a class=\"ds-nav-link\" href=\"#projects\">Projects</a><a class=\"ds-nav-link\" href=\"#company\">Company</a></nav>",
+      "css": ".ds-nav{display:flex;gap:32px;color:var(--ink,#171917);}.ds-nav-link{font-family:var(--body,DM,Arial,sans-serif);display:flex;align-items:center;gap:8px;font-size:12px;font-weight:600;line-height:1.65;position:relative;padding:12px 0;text-decoration:none;color:inherit;}.ds-nav-link:after{position:absolute;content:\"\";left:0;right:0;bottom:3px;height:1px;background:currentColor;transform:scaleX(0);transform-origin:left;transition:transform .25s;}.ds-nav-link:hover:after,.ds-nav-active:after{transform:scaleX(1);}.ds-nav-link:focus-visible{outline:3px solid var(--focus,#cb4d15);outline-offset:5px;}@media(prefers-reduced-motion:reduce){.ds-nav-link:after{transition:none;}}"
+    },
+    {
+      "name": "Document Filter Tabs",
+      "kind": "chip",
+      "refersTo": "tab-resource",
+      "description": "Outlined investor filters; selected state uses graphite and ivory.",
+      "html": "<div class=\"ds-resource-tabs\" role=\"group\" aria-label=\"Document category\"><button class=\"ds-resource-tab ds-resource-selected\" aria-pressed=\"true\">All documents</button><button class=\"ds-resource-tab\" aria-pressed=\"false\">Financial information</button></div>",
+      "css": ".ds-resource-tabs{display:flex;flex-wrap:wrap;gap:8px;}.ds-resource-tab{font-family:var(--body,DM,Arial,sans-serif);font-size:10px;line-height:1.65;padding:10px 13px;border:1px solid var(--line,#d7d8ce);border-radius:3px;background:transparent;color:var(--ink,#171917);white-space:nowrap;cursor:pointer;}.ds-resource-selected{background:var(--ink,#171917);color:var(--paper,#f4f3ec);border-color:var(--ink,#171917);}.ds-resource-tab:focus-visible{outline:3px solid var(--focus,#cb4d15);outline-offset:5px;}"
+    },
+    {
+      "name": "Equipment Card",
+      "kind": "card",
+      "refersTo": "machine-card",
+      "description": "Actual catalogue composition with the shipped JCB photograph, ruled metadata and quote action.",
+      "html": "<article class=\"ds-machine-card\"><a class=\"ds-machine-visual\" href=\"#machine\"><img src=\"data:image/webp;base64,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\" alt=\"JCB 3DX backhoe loader\" /><span class=\"ds-machine-arrow\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></span></a><div class=\"ds-machine-content\"><a class=\"ds-machine-title-link\" href=\"#machine\"><h2 class=\"ds-machine-title\">JCB 3DX</h2></a><span class=\"ds-machine-type\">Backhoe loader</span><div class=\"ds-machine-spec\"><span>JCB</span><span>Material handling</span></div><button class=\"ds-add-quote\">Add to quote <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" aria-hidden=\"true\"><path d=\"M12 5v14M5 12h14\"/></svg></button></div></article>",
+      "css": ".ds-machine-card{font-family:var(--body,DM,Arial,sans-serif);min-width:0;color:var(--ink,#171917);}.ds-machine-visual{position:relative;display:block;background:#e6e8dd;height:230px;overflow:hidden;}.ds-machine-visual img{display:block;width:100%;height:100%;object-fit:contain;padding:18px;mix-blend-mode:multiply;transition:transform .6s var(--ease,cubic-bezier(.16,1,.3,1));box-sizing:border-box;}.ds-machine-visual:hover img{transform:scale(1.04);}.ds-machine-arrow{position:absolute;top:12px;right:12px;display:flex;align-items:center;justify-content:center;background:var(--paper,#f4f3ec);height:29px;width:29px;border-radius:50%;}.ds-machine-content{padding:16px 0 0;}.ds-machine-title-link{text-decoration:none;color:inherit;}.ds-machine-title{font-family:var(--display,Barlow,'Arial Narrow',sans-serif);font-size:28px;font-weight:700;line-height:1.04;letter-spacing:-.025em;margin:6px 0 0;}.ds-machine-type{display:block;margin-top:8px;font-size:10px;color:var(--muted,#66695f);}.ds-machine-spec{display:flex;justify-content:space-between;gap:10px;margin-top:14px;padding-bottom:17px;border-bottom:1px solid var(--line,#d7d8ce);font-size:9px;color:var(--muted,#66695f);}.ds-add-quote{font-family:var(--body,DM,Arial,sans-serif);display:flex;width:100%;justify-content:space-between;align-items:center;padding:13px 0;font-size:11px;font-weight:600;border:0;border-bottom:1px solid var(--line,#d7d8ce);background:none;color:inherit;cursor:pointer;}.ds-add-quote:hover:not(:disabled){color:#b34818;}.ds-add-quote:disabled{opacity:.65;cursor:default;}.ds-machine-visual:focus-visible,.ds-machine-title-link:focus-visible,.ds-add-quote:focus-visible{outline:3px solid var(--focus,#cb4d15);outline-offset:5px;}@media(max-width:640px){.ds-machine-visual{height:165px;}.ds-machine-visual img{padding:11px;}.ds-machine-content{padding-top:9px;}.ds-machine-title{font-size:23px;margin-top:0;}.ds-machine-type,.ds-machine-spec,.ds-add-quote{font-size:12px;}.ds-machine-spec{flex-direction:column;gap:3px;padding-bottom:12px;margin-top:10px;}.ds-add-quote{padding:11px 0;gap:6px;}}@media(prefers-reduced-motion:reduce){.ds-machine-visual img{transition:none;}}"
+    },
+    {
+      "name": "Fleet Category Rail",
+      "kind": "custom",
+      "refersTo": "category-tab",
+      "description": "Ruled category control with graphite selection and an orange arrow.",
+      "html": "<div class=\"ds-category-rail\" role=\"tablist\" aria-label=\"Fleet categories\"><button class=\"ds-category-tab ds-category-selected\" role=\"tab\" aria-selected=\"true\">Foundation <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></button><button class=\"ds-category-tab\" role=\"tab\" aria-selected=\"false\">Lifting <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></button></div>",
+      "css": ".ds-category-rail{border-top:1px solid #bdc1b3;max-width:320px;}.ds-category-tab{font-family:var(--display,Barlow,'Arial Narrow',sans-serif);width:100%;display:flex;justify-content:space-between;align-items:center;font-size:26px;line-height:1.65;padding:21px 17px;border:0;border-bottom:1px solid #bdc1b3;background:none;color:var(--ink,#171917);text-align:left;cursor:pointer;transition:background .3s,color .3s;}.ds-category-selected{background:var(--ink,#171917);color:var(--paper,#f4f3ec);border-color:var(--ink,#171917);}.ds-category-selected svg{color:var(--orange,#ff6b2c);}.ds-category-tab:hover:not(.ds-category-selected){background:#dde0d4;}.ds-category-tab:focus-visible{outline:3px solid var(--focus,#cb4d15);outline-offset:5px;}@media(max-width:900px){.ds-category-rail{display:flex;max-width:none;overflow-x:auto;}.ds-category-tab{font-family:var(--body,DM,Arial,sans-serif);flex-shrink:0;width:auto;padding:16px 20px;border:0;gap:20px;font-size:11px;}}@media(max-width:640px){.ds-category-tab{font-size:12px;padding:15px;gap:15px;}}@media(prefers-reduced-motion:reduce){.ds-category-tab{transition:none;}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Cinematic industrial",
+    "overview": "Heavy machinery supplies the scale, material and atmosphere. Warm ivory reading surfaces, graphite foundations and a clear orange accent carry an ambitious industrial identity without making equipment selection feel complicated. Photography earns the dramatic moments; condensed type provides confidence and compact emphasis.\n\nEditorial sections are spacious, while catalogues, specifications, documents and forms are quieter and more closely ruled. Controls remain practical and flat. The same pairing of photographic authority and warm-paper clarity carries across public pages and the local enquiry workspace. Illustrative concept imagery is identified honestly rather than presented as evidence of a specific project.",
+    "keyCharacteristics": [
+      "Monumental machinery photography and tightly set condensed headings.",
+      "Warm ivory and graphite surfaces with purposeful orange actions.",
+      "Flat equipment grids, ruled specifications and square editorial geometry.",
+      "Restrained image motion, explicit selected states and visible keyboard focus.",
+      "Mobile equipment labels remain readable at their observed 12px size."
+    ],
+    "rules": [
+      {
+        "name": "The Orange Points the Way Rule",
+        "body": "Orange marks actions and meaningful emphasis. Keep long reading passages in graphite or the established secondary neutrals.",
+        "section": "colors"
+      },
+      {
+        "name": "The Compressed Display, Open Task Rule",
+        "body": "Reserve condensed type for headings and equipment names. Use DM Sans for actions, specifications, forms and navigation.",
+        "section": "typography"
+      },
+      {
+        "name": "The Shared Edge Rule",
+        "body": "Align text, photographic panels, rules and grids to the responsive container edges. Use internal padding only where a surface genuinely contains a component.",
+        "section": "layout"
+      },
+      {
+        "name": "The Flat at Rest Rule",
+        "body": "Keep editorial panels, catalogue cards and forms unshadowed. Reserve the observed shadows for navigation overlays and transient feedback.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Square Field Rule",
+        "body": "Keep content fields and photographic compositions square. Apply small corners to controls and circles to the observed arrow/status devices.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "**Do** pair warm-paper reading surfaces with graphite photographic and support surfaces.",
+      "**Do** use orange for a meaningful action or clear emphasis, and graphite or established neutrals for reading copy.",
+      "**Do** use the locally hosted condensed display faces and DM Sans body faces through their existing aliases.",
+      "**Do** keep equipment grids and specification rows flat, square and aligned to shared container edges.",
+      "**Do** preserve visible keyboard focus, explicit selected states and the reduced-motion behavior.",
+      "**Do** keep mobile fleet labels at their observed 12px size and disclose illustrative machinery imagery where the source does."
+    ],
+    "donts": [
+      "**Don't** replace the restrained industrial palette with unrelated decorative accents.",
+      "**Don't** turn equipment cards or forms into rounded, shadowed or glass panels.",
+      "**Don't** set task copy, navigation or input content in the condensed display face.",
+      "**Don't** replace photographic image scrims with illegible unprotected overlay text.",
+      "**Don't** generalize the observed 108px display exceptions, tiny ancillary captions or decorative vertical slogan into reusable rules.",
+      "**Don't** imply verified project evidence, exact model photography, price or availability through an illustrative visual."
+    ]
+  }
+}
